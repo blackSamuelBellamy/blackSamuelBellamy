@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi everyone ✌️</h1>
 
-<h3>I'm a JavaScript Full-stack developer, you can take a gander without problems. Enjoy your visit!
+<h3>I'm a Full-stack JavaScript developer, you can take a gander without problems. Enjoy your visit!
 
 </h3>
   
