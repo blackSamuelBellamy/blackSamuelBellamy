@@ -7,7 +7,7 @@ If you want to contact me, you can do it here.
 <br>
 👇
 <br>
-<a href="https://www.linkedin.com/in/alejandro-qui%C3%B1ones-arenas-a69040254"> My LinkedIn.</a>
+<a href="https://www.linkedin.com/in/alejandro-quinones-arenas/"> My LinkedIn.</a>
 </h3>
   
 ![](https://user-images.githubusercontent.com/103391543/211073112-1b22ed0c-c57c-4626-819b-2962486d72bf.gif)
